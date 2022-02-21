@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Sparkeighteen-feedApp/static/css/main.d36e5b0f.css",
+    "main.js": "/Sparkeighteen-feedApp/static/js/main.7cff8d89.js",
+    "static/js/787.26d9e798.chunk.js": "/Sparkeighteen-feedApp/static/js/787.26d9e798.chunk.js",
+    "index.html": "/Sparkeighteen-feedApp/index.html",
+    "main.d36e5b0f.css.map": "/Sparkeighteen-feedApp/static/css/main.d36e5b0f.css.map",
+    "main.7cff8d89.js.map": "/Sparkeighteen-feedApp/static/js/main.7cff8d89.js.map",
+    "787.26d9e798.chunk.js.map": "/Sparkeighteen-feedApp/static/js/787.26d9e798.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d36e5b0f.css",
+    "static/js/main.7cff8d89.js"
+  ]
+}
