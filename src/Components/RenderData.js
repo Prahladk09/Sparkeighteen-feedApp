@@ -6,6 +6,7 @@ const RenderData = (props) => {
     props;
   return (
     <div className="container">
+    
       <h1>{event_name}</h1>
      
       <img alt={index + 1} src={img_src} className="image" />

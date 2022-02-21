@@ -55,9 +55,10 @@
 
 .navigate{
   display: flex;
-  background-color: rgb(24, 24, 26);
   text-decoration: none;
   padding: 10px;
+  align-items: center;
+  justify-content: center;
 }
 .list{
   list-style: none;
@@ -80,7 +81,6 @@
 }
 
 .date{
-  /* background-color: rgb(58, 122, 58); */
   margin-left: -35px;
   font-size: 18px;
 }
